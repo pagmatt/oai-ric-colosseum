@@ -3,7 +3,8 @@
 	url = https://github.com/wineslab/oai-oran-protolib.git
 [submodule "xapp-oai"]
 	path = xapp-oai
-	url = https://github.com/wineslab/xapp-oai.git
+	url = https://github.com/pagmatt/xapp-oai.git
+	branch = main
 [submodule "e2"]
 	path = e2
 	url = https://github.com/wineslab/e2.git
