@@ -7,7 +7,7 @@
 	branch = main
 [submodule "e2"]
 	path = e2
-	url = https://github.com/wineslab/e2.git
+	url = https://github.com/pagmatt/e2-term.git
 [submodule "e2protobuf"]
 	path = e2protobuf
 	url = https://github.com/wineslab/e2protobuf.git
